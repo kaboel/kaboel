@@ -5,7 +5,7 @@
 <h5 align="center">
 <p>Welcome to my page! <br/>I'm Faiq, an Undergraduate student and Web Developer from <a href="https://www.indonesia.travel/gb/en/home">Indonesia</a>.</p>
 <p>I'm currently studying Computer Science at <a href="https://polinema.ac.id">State Polytechnic of Malang</a>, <br/>while also working part-time as a Front-end developer at <a href="https://widgetbrain.com">Widget Brain</a>, <br/> a tech startup focusing in AI and algorithm integration for companies.</p>
-Let's get connected! <br/>You can connect with me through these:
+Let's get connected! <br/>You can connect with me through these:</p>
 <p>
 <a href="https://linkedin.com/in/faiqkaboel/"><img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="react" width="30" height="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://facebook.com/faiqkaboel/"><img src="https://devicons.github.io/devicon/devicon.git/icons/facebook/facebook-original.svg" alt="react" width="30" height="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
