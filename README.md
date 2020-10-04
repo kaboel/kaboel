@@ -1,6 +1,6 @@
 ##
 <h3 align="center">👋 Hi there cats!</h3>
-<p align="center"><img src="https://lh3.googleusercontent.com/proxy/T-C4pKwktfvv9tPddpRGXLJzuAL8D14mxYB1YuvbhZii6m3D_GY7swENUps01Zx2JbhjlBobYYkgb-H3BP3HPY3Q4_rgqUvIN11TODzcWPI" width="130" alt="Octo-wave"/> 
+<p align="center"><img src="https://lh3.googleusercontent.com/proxy/T-C4pKwktfvv9tPddpRGXLJzuAL8D14mxYB1YuvbhZii6m3D_GY7swENUps01Zx2JbhjlBobYYkgb-H3BP3HPY3Q4_rgqUvIN11TODzcWPI" width="130" alt="Octo-wave"/></p>
 
 <h4 align="center">
 <p>Welcome to my page! <br/>I'm Faiq, an Undergraduate student and Web Developer from <a href="https://www.indonesia.travel/gb/en/home">Indonesia</a>.</p>
@@ -25,9 +25,9 @@ Let's get connected! <br/>You can connect with me through these:</p>
 
 
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongo" width="35" height="35"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="35" height="35"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" alt="vue" width="35" height="35"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="node" width="35" height="35"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain.svg" alt="node" width="35" height="35"/>
+<a href="https://mongodb.com"><img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongo" width="35" height="35"/></a>
+<a href="https://expressjs.com"><img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="35" height="35"/></a>
+<a href="https://vuejs.org"><img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" alt="vue" width="35" height="35"/></a>
+<a href="https://nodejs.org"><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="node" width="35" height="35"/></a>
+<a href="https://laravel.com"><img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain.svg" alt="node" width="35" height="35"/></a>
 </p>
