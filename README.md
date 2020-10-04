@@ -2,7 +2,7 @@
 <h3 align="center">👋 Hi there cats!</h3>
 <p align="center"><img src="https://lh3.googleusercontent.com/proxy/T-C4pKwktfvv9tPddpRGXLJzuAL8D14mxYB1YuvbhZii6m3D_GY7swENUps01Zx2JbhjlBobYYkgb-H3BP3HPY3Q4_rgqUvIN11TODzcWPI" width="130" alt="Octo-wave"/> 
 
-<h5 align="center">
+<h4 align="center">
 <p>Welcome to my page! <br/>I'm Faiq, an Undergraduate student and Web Developer from <a href="https://www.indonesia.travel/gb/en/home">Indonesia</a>.</p>
 <p>I'm currently studying Computer Science at <a href="https://polinema.ac.id">State Polytechnic of Malang</a>, <br/>while also working part-time as a Front-end developer at <a href="https://widgetbrain.com">Widget Brain</a>, <br/> a tech startup focusing in AI and algorithm integration for companies.</p>
 Let's get connected! <br/>You can connect with me through these:</p>
@@ -12,7 +12,7 @@ Let's get connected! <br/>You can connect with me through these:</p>
 <a href="https://twitter.com/krispykaboel/"><img src="https://devicons.github.io/devicon/devicon.git/icons/twitter/twitter-original.svg" alt="react" width="30" height="30"/> </a>
 </p>
 <p>Cherio!
-</h5>
+</h4>
 
 ##
 
