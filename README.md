@@ -21,7 +21,7 @@ Let's get connected! <br/>You can connect with me through these:</p>
 ##
 
 <h4 align="center">
-*Note: I'm not actively using GitHub, therefore I show you my Wakatime activity, Behold!
+*Note: I'm not actively using GitHub. I use other git repositories at work and college, <br/> therefore I show you my Wakatime activity, Behold!
 </h4>
 
 <p align="center">
