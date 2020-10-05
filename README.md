@@ -21,13 +21,14 @@ Let's get connected! <br/>You can connect with me through these:</p>
 ##
 
 <h4 align="center">
-<p>Just to note, I'm not actively using GitHub, I only upload my random codes and few freelance project thingy here.</p>
-<p>For work and college stuff we use other git repos, therefore I show you my Wakatime stats.</p>
+<p>Just to note, I'm not actively using GitHub, I only upload <br/>my random codes and few freelance project thingy here.</p>
+<p>For work and college stuff we use other git repos,<br/> therefore I show you my Wakatime stats.</p>
 </h4>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=faiqkaboel&theme=gotham" alt="kaboelstats"/></p>
 
+##
 
 <p align="center">
 <a href="https://mongodb.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongo" width="35" height="35"/></a>
