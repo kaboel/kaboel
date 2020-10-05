@@ -21,7 +21,8 @@ Let's get connected! <br/>You can connect with me through these:</p>
 ##
 
 <h4 align="center">
-*Note: I'm not actively using GitHub. I use other git repositories at work<br/> and college, therefore I show you my Wakatime activity, Behold!
+<p>Just to note, I'm not actively using GitHub, I only upload my random codes and few freelance project thingy here.</p>
+<p>For work and college stuff we use other git repos, therefore I show you my Wakatime stats.</p>
 </h4>
 
 <p align="center">
