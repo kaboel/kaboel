@@ -1,6 +1,6 @@
 ##
 <h3 align="center">👋 Hi there cats!</h3>
-<p align="center"><img src="image/cats-wave.gif" width="130" alt="Octo-wave"/></p>
+<p align="center"><img src="image/cats-wave.gif" width="175" alt="Octo-wave"/></p>
 
 <h4 align="center">
 <p>Welcome to my page! <br/>I'm Faiq, an Undergraduate student and Web Developer from <a href="https://www.indonesia.travel/gb/en/home">Indonesia</a>.</p>
