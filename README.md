@@ -20,6 +20,10 @@ Let's get connected! <br/>You can connect with me through these:</p>
 
 ##
 
+<h4 align="center">
+*Note: I'm not actively using GitHub, therefore I show you my Wakatime activity, Behold!
+</h4>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=faiqkaboel&theme=gotham" alt="kaboelstats"/></p>
 
