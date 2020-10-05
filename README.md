@@ -1,4 +1,6 @@
-##
+## 
+<img src="https://komarev.com/ghpvc/?username=kaboel&style=flat&color=yellowgreen&label=Stalkers" alt="kalavhan" />
+
 <h3 align="center">👋 Hi there cats!</h3>
 <p align="center"><img src="image/cats-wave.gif" width="175" alt="Octo-wave"/></p>
 
@@ -13,22 +15,15 @@ Let's get connected! <br/>You can connect with me through these:</p>
 </p>
 <p>Cherio!
 </h4>
-
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=kaboel&style=flat&color=yellowgreen&label=Stalkers" alt="kalavhan" />
-</p>
-
 ##
 
 <h4 align="center">
-<p>Just to note, I'm not actively using GitHub, I only upload <br/>my random codes and few freelance project thingy here.</p>
+<p>Just to note, I'm not actively using GitHub, I only upload my random codes and <br/>some freelance project thingy here (if there are any anyways, lol).</p>
 <p>For work and college stuff we use other git repos,<br/> therefore I show you my Wakatime stats.</p>
 </h4>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=faiqkaboel&theme=gotham" alt="kaboelstats"/></p>
-
-##
 
 <p align="center">
 <a href="https://mongodb.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongo" width="35" height="35"/></a>
