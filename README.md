@@ -17,15 +17,6 @@ Let's get connected! <br/>You can connect with me through these:</p>
 </h4>
 
 ##
-
-<h4 align="center">
-<p>Just to note, I'm not actively using GitHub, I only upload my random codes and <br/>some freelance project thingy here (if there are any anyways, lol).</p>
-<p>For work and college stuff we use other git repos,<br/> therefore I show you my Wakatime stats.</p>
-</h4>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=faiqkaboel&theme=gotham" alt="kaboelstats"/></p>
-
 <p align="center">
 <a href="https://mongodb.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongo" width="35" height="35"/></a>
 <a href="https://expressjs.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="35" height="35"/></a>
