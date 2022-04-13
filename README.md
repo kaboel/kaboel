@@ -6,7 +6,7 @@
 <p align="center"><img src="image/cats-wave.gif" width="175" alt="Octo-wave"/></p>
 
 <h4 align="center">
-<p>Welcome to my stash! <br/>I'm Faiq, an Undergraduate student and Web Developer from <a href="https://www.indonesia.travel/gb/en/home">Indonesian</a> Software Engineer.</p>
+<p>Welcome to my stash! <br/>I'm Faiq, an <a href="https://www.indonesia.travel/gb/en/home">Indonesian</a> Software Engineer.</p>
 <p>I'm currently working as a Front-end Engineer at <a href="https://quinyx.com">Quinyx</a>, <br/> a SaaS company focusing in AI-driven WFM for enterprises.</p>
 Let's get connected! <br/>You can connect with me through these:</p>
 <p>
