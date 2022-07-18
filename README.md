@@ -11,8 +11,8 @@
 Let's get connected! <br/>You can connect with me through these:</p>
 <p>
 <a href="https://linkedin.com/in/faiqkaboel/" target="_blank"><img src="image/174857.png" alt="LinkedIn" width="50" height="50"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://facebook.com/faiqkaboel/" target="_blank"><img src="174848.png" alt="Facebook" width="50" height="50"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/krispykaboel/" target="_blank"><img src="124021.png" alt="Twitter" width="50" height="50"/> </a>
+<a href="https://facebook.com/faiqkaboel/" target="_blank"><img src="image/174848.png" alt="Facebook" width="50" height="50"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/krispykaboel/" target="_blank"><img src="image/124021.png" alt="Twitter" width="50" height="50"/> </a>
 </p>
 <p>Cherio!
 </h4>
