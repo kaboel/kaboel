@@ -2,6 +2,8 @@
 ## 
 <img src="https://komarev.com/ghpvc/?username=kaboel&style=flat&color=yellowgreen&label=Stalkers" alt="yolo" />
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=faiq.kaboel&cover_image=true&theme=natemoo-re&bar_color=a6a6a6&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=faiq.kaboel&redirect=true)
+
 <h3 align="center">👋 Hi there cats!</h3>
 <p align="center"><img src="image/cats-wave.gif" width="175" alt="Octo-wave"/></p>
 
